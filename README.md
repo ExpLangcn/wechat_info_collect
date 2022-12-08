@@ -1,6 +1,8 @@
 
 
-# 电子取证 | wechat_info_collect  
+# 电子取证 | wechat_info_collect 
+
+- 😄 I’m ExpLang [**Twitter**](https://twitter.com/ExpLang_Cn)、[**Discord社区**](https://discord.gg/mnD8pbU4Zw)**实时更新国内外700+个黑客安全技术论坛/社区/博客/公众号的技术文章.自动推送最新的CVE漏洞、CNVD漏洞、最新的红队工具等。**
 
 调查取证 | 针对微信客户端的信息收集工具, 一键提取本地PC所有的微信信息, 包括微信号, 手机号等  
 公众号: 饿猫的小黑屋 | 薛定的饿猫  
